@@ -1,6 +1,6 @@
 # MPLADS-Summary
 <p>This is a web application to view summary of the MPLADS and other Schemes in a graphical representation in a map instead of viewing it in a Table Format</p>
-<p>NOTE: For now I wont be setting up any previews as I dont know how to create a MySQL database here in GitHub. Once I figure that out I will be setting it up</p>
+<a href="http://bkiro.github.io/MPLADS-Summary/" style="text-decoration: none;">Click Here for Preview</a>
 
 <h1>Technologies Used</h1>
 <ol>
