@@ -11,7 +11,7 @@
     <ul>
       <li>JQuery</li>
       <li><a href="http://jqueryui.com" style="text-decoration: none;">JQuery UI (ToolTip)</li>
-      <li><a href="http://www.outsharked.com/imagemapster/" style="text-decoration: none;">ImageMapster (Image Map Management)</a></li>
+      <li><a href="https://github.com/jamietre/imagemapster" style="text-decoration: none;">ImageMapster (Image Map Management)</a></li>
       <li><a href="https://github.com/jackmoore/colorbox" style="text-decoration: none;">ColorBox (Popup)</a></li>
     </ul>
   </li>
