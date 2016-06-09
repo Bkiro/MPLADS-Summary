@@ -31,6 +31,9 @@
   </ol></li>
   <li><ol><strong>June 9, 2016</strong>
     <li>Started Building the actual site</li>
-    <li>Starting with the Front End</li>
+    <li><ul>Started with the Front End (Purely HTML and CSS for now)
+      <li>Made the Naviaion Bar and the Navigation Links</li>
+      <li>Made the Control Panel Area and the Display/Map Area</li>
+    </ul></li>
   </ol></li>
 </ul>
