@@ -98,3 +98,17 @@ body {
 #proposal:hover {
     margin-left: 23.2em;
 }
+
+#gitHub {
+    margin-left: 50em;
+}
+#gitHub:hover{
+    margin-left: 46.3em;
+}
+
+#gitHubLogo {
+    height: 2em;
+    margin-top: -0.5em;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
