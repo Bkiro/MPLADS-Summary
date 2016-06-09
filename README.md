@@ -21,7 +21,7 @@ This is a web application to view summary of the MPLADS and other Schemes in a g
 
 <h1>Project History</h1>
 <ul>
-  <li><ol><storng>Started From May 26, 2016</strong>
+  <li><ol><strong>Started From May 26, 2016</strong>
     <li><ul>Started with Learning the Various Required Languages at <a href="https://www.codecademy.com/learn" style="text-decoration: none;">CodeCademy</a>
       <li>Started with HTML & CSS, JavaScript Then JQuery</li>
     </ul></li>
