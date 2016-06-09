@@ -103,12 +103,10 @@ body {
     margin-left: 50em;
 }
 #gitHub:hover{
-    margin-left: 46.3em;
+    margin-left: 46.4em;
 }
 
 #gitHubLogo {
     height: 2em;
     margin-top: -0.5em;
-    background-color: aliceblue;
-    border-radius: 10px;
 }
