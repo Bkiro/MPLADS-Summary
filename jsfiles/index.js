@@ -35,7 +35,14 @@ $(document).ready(function (e) {
         fillOpacity: 1,
         stroke: true,
         strokeWidth: 1,
-        strokeOpacity: 1
+        strokeOpacity: 1,
+        onClick: function(e) {
+            alert($(this).attr("data-dist"));
+        }
+    });
+    
+    $('area').on('click', function (e){
+       alert($(this).attr("target"));
     });
 //    End of ImageMapster
 });
