@@ -106,11 +106,6 @@ body {
     height: 2.1em;
 }
 
-#turaMap {
-    width: 100%;
-/*    height: 834;*/
-}
-
 #home:hover {
     font-size: 1.4em;
     margin-left: 2.7em;
