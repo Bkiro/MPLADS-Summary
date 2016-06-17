@@ -11,8 +11,9 @@
     <ul>
       <li>JQuery</li>
       <li><a href="http://jqueryui.com" style="text-decoration: none;">JQuery UI (ToolTip)</li>
-      <li><a href="https://github.com/jamietre/imagemapster" style="text-decoration: none;">ImageMapster (HTML Image Map Enhancement)</a> by <a href="https://github.com/jamietre" style="text-decoration: none;">James Treworgy AKA jamietre</a></li>
+      <li><strike><a href="https://github.com/jamietre/imagemapster" style="text-decoration: none;">ImageMapster (HTML Image Map Enhancement)</a> by <a href="https://github.com/jamietre" style="text-decoration: none;">James Treworgy AKA jamietre</a></strike></li>
       <li><a href="https://github.com/jackmoore/colorbox" style="text-decoration: none;">ColorBox (Popup)</a> by <a href="https://github.com/jackmoore" style="text-decoration: none;">Jack Moore</a></li>
+      <li><a href="https://github.com/kemayo/maphilight">MapHilight</a> by <a href="https://github.com/kemayo">David Lynch</a></li>
     </ul>
   </li>
   <li>HTML</li>
@@ -42,5 +43,6 @@
   <li><ol><strong>June 15, 2016</strong>
     <li>Encountered problem using ImageMapster. (Couldn't get it to work somehow)</li>
     <li>After working on it for the whole day finally found a solution.</li>
+    <li>ImageMapster Just not working. Decided to just go with <a href="https://github.com/kemayo/maphilight">maphilight</a></li>
   </ol></li>
 </ul>
