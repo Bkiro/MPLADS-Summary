@@ -43,6 +43,8 @@
   <li><ol><strong>June 15, 2016</strong>
     <li>Encountered problem using ImageMapster. (Couldn't get it to work somehow)</li>
     <li>After working on it for the whole day finally found a solution.</li>
+  </ol></li>
+  <li><ol><strong>June 17, 2016</strong>
     <li>ImageMapster Just not working. Decided to just go with <a href="https://github.com/kemayo/maphilight">maphilight</a></li>
   </ol></li>
 </ul>
