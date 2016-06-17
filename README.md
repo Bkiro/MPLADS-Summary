@@ -36,4 +36,11 @@
       <li>Made the Control Panel Area and the Display/Map Area</li>
     </ul></li>
   </ol></li>
+  <li><ol><strong>June 13 - 14, 2016</strong>
+    <li>Worked on creating the image map for the whole map of Garo Hills Constituencies.</li>
+  </ol></li>
+  <li><ol><strong>June 15, 2016</strong>
+    <li>Encountered problem using ImageMapster. (Couldn't get it to work somehow)</li>
+    <li>After working on it for the whole day finally found a solution.</li>
+  </ol></li>
 </ul>
